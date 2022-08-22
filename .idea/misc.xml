@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/activity_main.xml" value="0.1082427536231884" />
-        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.101" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/drawable/ic_baseline_android_24.xml" value="0.1" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/drawable/ic_baseline_image_not_supported_24.xml" value="0.1" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/activity_profile.xml" value="0.18" />
         <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/activity_second.xml" value="0.17083333333333334" />
-        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/item_member.xml" value="0.5" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/item_member.xml" value="0.1" />
+        <entry key="..\:/JAVA/AmaliyDars/PDP Task/RecycleViewExample_3/app/src/main/res/layout/item_member_2.xml" value="0.6347826086956522" />
       </map>
     </option>
   </component>
